@@ -17,7 +17,7 @@ git clone https://github.com/prakashjha18/Laravel_Bird_Sightings.git
 7) Go to localhost:8000
 this is a simple CRUD application to build an application with a graphical interface to manage and maintain a list of Bird Sightings.
 
-Users of your application should be able to:
+# Users of your application should be able to:
 
 1. View the list of existing Bird Sightings and all of their details including: "Bird Species", "Date of Sighting", "Number Sighted" and "Location","map"
 2. Add new Bird Sightings via a Form or equivalent
