@@ -15,6 +15,7 @@ git clone https://github.com/prakashjha18/Laravel_Bird_Sightings.git
 5) Run php artisan migrate
 6) Run php artisan serve
 7) Go to localhost:8000
+
 this is a simple CRUD application to build an application with a graphical interface to manage and maintain a list of Bird Sightings.
 
 # Users of your application should be able to:
