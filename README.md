@@ -28,4 +28,4 @@ this is a simple CRUD application to build an application with a graphical inter
 4. Edit/Change any and all details of each Bird Sighting record in the list
 5. Enabled with pagination
 6. use of enhanced UI like a "Map" for selecting the "Location", allowing uploading a "Photo" for each "Bird Sighting",
-7. be protected form CSRF attacks
+7. be protected form CSRF attacks.
